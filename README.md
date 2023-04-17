@@ -22,7 +22,7 @@ For the time being, MyDex only retrieves Pokémon from generations 1 to 8. PokeA
 
 ## Contributing
 
-Forks, pull requests and suggestions are more than welcome. This is a little hobby
+Forks, pull requests and suggestions are more than welcome. This is a little hobby project crated and maintained by a student, but there will be updates every now and then.
 
 ## License
 
